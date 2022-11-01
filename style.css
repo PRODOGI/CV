@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+}
+.my_photo{
+    width: 250px;
+}
+.wrapper{
+    background-image: url(img.jpg) no-repeat;
+}
